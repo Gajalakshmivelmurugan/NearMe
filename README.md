@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 22.11.2023
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -110,14 +110,17 @@ draws huge footfalls during the Chittiraifestivel,celabratedin the months of Apr
 </body>
 </html>
 
+
 ```
 ## OUTPUT
-![Alt text](maps4-1.png)
-![Alt text](1-1.png)
-![Alt text](2-1.png)
-![Alt text](3-1.png)
-![Alt text](4-1.png)
-![Alt text](5-1.png)
+![maps4](https://github.com/Gajalakshmivelmurugan/NearMe/assets/144871940/7f941955-474b-4d3b-9dc9-87735cfdf757)
+![1](https://github.com/Gajalakshmivelmurugan/NearMe/assets/144871940/276603ec-4e1c-4a9a-b157-c9a5df5b5e4a)
+![2](https://github.com/Gajalakshmivelmurugan/NearMe/assets/144871940/9a827415-78d2-4b98-bc5d-4348b7718635)
+![3](https://github.com/Gajalakshmivelmurugan/NearMe/assets/144871940/d2bcc505-98cb-4411-bf50-cd71f2a4c345)
+![4](https://github.com/Gajalakshmivelmurugan/NearMe/assets/144871940/1311d51a-7671-40cb-a366-93934c0c4ff6)
+![5](https://github.com/Gajalakshmivelmurugan/NearMe/assets/144871940/d7a1895a-6f32-4b2d-b35e-8e97b711da63)
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
